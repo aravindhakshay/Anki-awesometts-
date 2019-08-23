@@ -1,0 +1,16 @@
+Open Anki and go to Tools->addons->browse and install
+Enter the below code in the code field  
+
+code:2039017052
+
+Restart Anki.
+
+For generating your language tts audio: 
+
+Open Aweseometts in browse mode of anki
+
+Under Configure Service
+
+Select Microsoft Speech API Com
+
+Under voice select your needed voice
